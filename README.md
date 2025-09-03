@@ -124,7 +124,7 @@ airlines-data-analysis-sql-python/
   [Booked Vs Total Seats](Outputs/occupancy_rate.png)
 
 - **Revenue Simulation (+10% Occupancy):** Demonstrates potential revenue growth.  
-  [Revenue Growth](Outputs/revenue_growth_by10%_occupancy.png)
+  [Revenue Growth](Outputs/revenue_growth_by_10%_occupancy.png)
 
 ---
 <h2><a class="anchor" id="how-to-run-this-project"></a>🚀 How to Run This Project</h2>
@@ -171,3 +171,4 @@ Aspiring Data Scientist
 🔗 LinkedIn: Your LinkedIn Profile
 
 🔗 GitHub: Your GitHub Profile
+
