@@ -112,19 +112,19 @@ airlines-data-analysis-sql-python/
 <h2><a class="anchor" id="visualizations--outputs"></a>📊 Visualizations & Outputs</h2>
 
 - **Tickets Over Time (Line Chart):** Shows peak in bookings between June 22 – July 7.
-  [Tickets Bookings](Outputs/tickets_over_time.png)
+  ![Tickets Bookings](Outputs/tickets_over_time.png)
 
 - **Revenue Over Time:** Revenue trend mirrors ticket sales trend.
-  [Revenue Trends](Outputs/revenue_over_time.png)
+  ![Revenue Trends](Outputs/revenue_over_time.png)
 
 - **Fare Condition Comparison (Bar Chart):** Pricing across Economy, Business, Comfort.
-  [Fare Condition](Outputs/avg_fare_conditions.png)
+  ![Fare Condition](Outputs/avg_fare_conditions.png)
 
 - **Occupancy Rate Analysis:** Seats booked vs total seats per aircraft.
-  [Booked Vs Total Seats](Outputs/occupancy_rate.png)
+  ![Booked Vs Total Seats](Outputs/occupancy_rate.png)
 
 - **Revenue Simulation (+10% Occupancy):** Demonstrates potential revenue growth.  
-  [Revenue Growth](Outputs/revenue_growth_by_10%_occupancy.png)
+  ![Revenue Growth](Outputs/revenue_growth_by_10_percent_occupancy.png)
 
 ---
 <h2><a class="anchor" id="how-to-run-this-project"></a>🚀 How to Run This Project</h2>
@@ -162,13 +162,14 @@ jupyter notebook Notebooks/airlines\_analysis.ipynb
 ---
 <h2><a class="anchor" id="author--contact"></a>👨‍💻 Author \& Contact</h2>
 
-**Golla Sai Deep**
+👤 **Golla Sai Deep**
 
 Aspiring Data Scientist
 
 📧 Email: saideepcct@gmail.com
 
-🔗 LinkedIn: Your LinkedIn Profile
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-black?logo=github)](https://github.com/saideep-21)
 
-🔗 GitHub: Your GitHub Profile
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/saideep04)  
+
 
